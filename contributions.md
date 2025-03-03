@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| March 3   | [issue](https://github.com/danny031103/OSSD_group_Extension/issues/1) and [PR to fix the Issue](https://github.com/danny031103/OSSD_group_Extension/pull/2) created    | Peer Project    |   Enhanced Commands Display for the GitHelper Chrome Extension from Team 8: commands can be copied and description appears when hovering over the commands.   |
+| March 3   | [issue](https://github.com/danny031103/OSSD_group_Extension/issues/1) and [PR to fix the Issue](https://github.com/danny031103/OSSD_group_Extension/pull/2) created    | Peer Project    |   Enhanced Commands Display for the [GitHelper](https://github.com/danny031103/OSSD_group_Extension) Chrome Extension from Team 8: commands can be copied and description appears when hovering over the commands.   |
 |     |     |     |      |
 |     |     |     |      |
