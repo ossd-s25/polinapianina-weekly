@@ -32,4 +32,5 @@ Replace the first row with your own contribution.
 | May 6th | [OpenStreetMap](https://www.openstreetmap.org/changeset/165918599#map=17/55.684329/37.584781) | OpenStreetMap Editing | Added some new points and removed the road that no longer exists, and fixed the title of the cafe |
 | May 6th | [OpenStreetMap](https://www.openstreetmap.org/changeset/165918714#map=17/55.684564/37.584777) | OpenStreetMap Editing | Added a "playground" area and provided additional info for Pechorin Cafe |
 | May 6th | [OpenStreetMap](https://www.openstreetmap.org/changeset/165918148#map=19/40.692353/-73.931091) | OpenStreetMap Editing | Added a hair salon and a convenience store |
-| May 6th | [Wiki Article Draft](https://en.wikipedia.org/wiki/Draft:Taisia_Kitaiskaia) | Wiki Article Draft Pending Review | Wrote an article about an author that doesn't have a Wiki page yet | 
+| May 6th | [Wiki Article Draft](https://en.wikipedia.org/wiki/Draft:Taisia_Kitaiskaia) | Wiki Article Draft Pending Review | Wrote an article about an author that doesn't have a Wiki page yet |
+| May 8th | [Issue](https://github.com/openfoodfacts/openfoodfacts-web/issues/744) | OpenFoodFacts | Created an issue stating that the “quick start guide” link in lang/eu/texts/index-pro.html on the Pro landing page is broken and returns a 404 error. | 
