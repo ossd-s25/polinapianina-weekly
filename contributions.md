@@ -34,3 +34,4 @@ Replace the first row with your own contribution.
 | May 6th | [OpenStreetMap](https://www.openstreetmap.org/changeset/165918148#map=19/40.692353/-73.931091) | OpenStreetMap Editing | Added a hair salon and a convenience store |
 | May 6th | [Wiki Article Draft](https://en.wikipedia.org/wiki/Draft:Taisia_Kitaiskaia) | Wiki Article Draft Pending Review | Wrote an article about an author that doesn't have a Wiki page yet |
 | May 8th | [Issue](https://github.com/openfoodfacts/openfoodfacts-web/issues/744) | OpenFoodFacts | Created an issue stating that the “quick start guide” link in lang/eu/texts/index-pro.html on the Pro landing page is broken and returns a 404 error. | 
+| May 8th | [OpenStreetMap](https://www.openstreetmap.org/changeset/166006092#map=18/55.653580/37.594731) | OpenStreetMapEditing | Updated address for my highschool and a fastfood place next to it and upgraded the tag for this fastfood place | 
